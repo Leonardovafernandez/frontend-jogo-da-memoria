@@ -1,33 +1,35 @@
-![](https://i.imgur.com/xG74tOh.png)
+<h1 align="center"> Jogo da memória </h1>
 
-# Estados React
+<p align="center">
+Esse projeto se trata de um jogo da memória, onde teremos alguma cartas e precisamos clicar nelas para virá-las e tentar fazer o 'match' com alguma carta.
+</p>
 
-## Exercícios de classe 🏫
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-1. O mini-desafio dessa aula se trata de um jogo da memória, onde teremos alguma cartas e precisamos clicar nelas para virá-las e tentar fazer o 'match' com alguma carta.
+<br>
 
-Veja na imagem abaixo o layout:
-![](https://i.imgur.com/wWQgq7Z.png)
+<p align="center">
+  <img alt="tela dindin" src=".github/preview.png" width="100%">
+  <img alt="tela dindin" src=".github/preview1.png" width="100%">
+</p>
 
+## 🚀 Tecnologias
 
-**Obs.:** você poderá usar o figma para te orientar quanto ao layout, dentro desse repositório nós temos um arquivo chamado **figma.fig**, para importá-lo é muito simples, veja nas imagens abaixo:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Abra o figma e clique em **import file**, escolha o arquivo e clique em OK.
+- ReactJS
+- HTML e CSS
+- JavaScript
+- Git e Github
 
+## 💻 Projeto
 
-![](https://i.imgur.com/5jKmg1r.jpg)
+Esse projeto se trata de um jogo da memória, onde teremos alguma cartas e precisamos clicar nelas para virá-las e tentar fazer o 'match' com alguma carta. Nesse jogo é utilizado o hook useState do react para fazer as cartas virarem e se manterem viradas.
 
-- Pronto, quando terminar de importar o projeto aparecerá na sua tela principal do figma.
+## 🔖 Layout
 
-
----
-
-Preencha a checklist para fazer os exercícios:
-
--   [ ] Fazer o fork do repositório para sua conta
--   [ ] Executar `git clone` do seu fork no terminal para clonar o repositório, ou clonar de outra maneira
--   [ ] Após fazer e commitar todos os exercícios fazer o `git push` para seu fork
--   [ ] Copiar a url do seu fork e enviar na plataforma
-
-###### tags: `módulo 3` `front-end` `React`
-
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/VPpPBcwhCiAiTKHd07nwwL/figma?t=vQQABvRCWKlGp2SZ-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
